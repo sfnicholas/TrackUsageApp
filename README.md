@@ -15,3 +15,22 @@ Database: txt
 Important Resources:
 
 - https://dev.to/tkkhhaarree/track-windows-app-usage-time-using-python-h9h
+
+## Features:
+
+## Next Step:
+
+1 star
+
+- If over one minute untouch, stop adding
+- Window start run script (provide preference for it)
+
+2 star
+
+- UI for editing and choosing
+- data analytic (currently: per day, per month)
+
+## Further:
+
+- Focus on programming part time usaage
+- extend to detect browser content (can distinguish is program or not using AI)
