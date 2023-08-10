@@ -18,11 +18,12 @@ Important Resources:
 
 ## Features:
 
+- If over one minute untouch, stop adding (5 seconds for now)
+
 ## Next Step:
 
 1 star
 
-- If over one minute untouch, stop adding
 - Window start run script (provide preference for it)
 
 2 star
